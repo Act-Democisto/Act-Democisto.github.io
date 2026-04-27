@@ -1,0 +1,7 @@
+resmap-file: ../data/resmap.yaml
+accept-file-type:
+
+output-assets-dir: /assets
+output-asset-file: /res5s/assets.dart
+output-class: DemoRes
+use-: true

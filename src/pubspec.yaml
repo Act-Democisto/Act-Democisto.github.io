@@ -1,0 +1,29 @@
+name: act_democisto_web
+description: An Official Website of “Democisto with Actions”, one of people's network.
+author: Haruka Sato <as.he.that.doth.serve@gmail.com>
+homepage: https://Act-Democisto.github.io
+repository: https://github.com/Act-Democisto/Act-Democisto.github.io
+version: 1.0.0
+
+
+environment:
+  sdk: ^3.10.1
+
+dependencies:
+  jaspr: ^0.20.0
+  jaspr_router: 
+  jaspr_localizations: 
+  awesome_jaspr_components: 
+  shadcn_jaspr: ^0.4.3
+  color: ^3.0.0
+  # path: ^1.9.0
+
+dev_dependencies:
+  # lints: ^6.0.0
+  # test: ^1.25.6
+
+topics:
+  - localmin
+  - portal
+  - twitter
+publish_to: none
